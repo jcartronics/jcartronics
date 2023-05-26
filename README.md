@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Andes Motor, a leading company in the automotive industry.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning as a **Fullstack Javascript Student**
 
 - 📫 How to reach me **jcar-95@hotmail.com**
 
